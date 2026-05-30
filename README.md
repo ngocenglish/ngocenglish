@@ -1,75 +1,123 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! I'm @ngocenglish.</h1>
-
-- 🔭 I'm currently a student at [Phenikaa University]
-- ⚡ I'm interested in learning everything 
-- ⚡ Start where you are. Use what you have. Do what you can.
-- ⚡ To me, the most important thing in my life is family
-
-<br />
-
-### Spotify Playing 🎧
-[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ncivibv3phbekrh3ttbnb7c5qy)
-
-
-
-
----
-
-
 <div align="center">
-  <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
+
+# <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, I'm Ngọc Anh
+
+### Front-end Engineer | React.js • Next.js • TypeScript
+
+Building scalable, performant, and user-centric web applications.
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Front-end+Engineer;React.js+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Passionate+About+UI%2FUX+and+Performance"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/englishcntt">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ngocenglish">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ngocanha3k52@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
+---
+
+## 🚀 About Me
+
+```ts
+const developer = {
+  name: "Ngọc Anh",
+  role: "Front-end Engineer",
+  location: "Vietnam 🇻🇳",
+
+  specialization: [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "TailwindCSS"
+  ],
+
+  interests: [
+    "UI Engineering",
+    "Design Systems",
+    "Web Performance",
+    "3D Web Experiences"
+  ],
+
+  motto: "Start where you are. Use what you have. Do what you can."
+}
+```
 
 ---
 
+## 🛠️ Tech Stack
 
+### Front-end
 
-### Connect with me:
-[<img align="left" alt="NgocEnglish | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" />][facebook]
-[
-<img align="left" alt="NgocEnglish | Zalo" width="22px" src="https://www.anphatpc.com.vn/template/anphat_2020v2/images/icon-zalo.jpg" />][zalo]
-[<img align="left" alt="NgocEnglish | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />][linkedin]
-[<img align="left" alt="NgocEnglish | Tiktok" width="22px" src="https://cdn.cdnlogo.com/logos/t/46/tiktok-icon-black.svg" />][tiktok]
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,vite" />
+</p>
 
-<br />
+### State Management & Data Fetching
 
-### Languages and Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
+</p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" hrep/>
+### Tools
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][min project]
-[<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][web]
-[<img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][web]
-[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][web]
-
-<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-[<img align="left" alt="cpp c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][c and cpp]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-
-<br />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
+</p>
 
 ---
 
-### GitHub Stats Card
-| <a href="https://github.com/englishcntt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=englishcntt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=ocean_dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/englishcntt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=englishcntt&layout=compact&theme=buefy&hide_border=true&theme=ocean_dark" /></a> |
-| ------------- | ------------- |
+## 🌸 Personal Corner
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
+<img src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="500"/>
+
+</div>
+
+<div align="center">
+
+*"The most important thing in my life is family ❤️"*
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EnglishCNTT&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[Phenikaa University]: https://phenikaa-uni.edu.vn/vi
-[facebook]: https://www.facebook.com/englishit4
-[linkedin]: linkedin.com/in/englishcntt
-[zalo]: https://zalo.me/0865089202
-[tiktok]: https://www.tiktok.com/@englishit4
-[web]: https://github.com/englishcntt
-[min project]: https://github.com/englishcntt
-[c and cpp]: https://github.com/englishcntt
-[python]: https://github.com/englishcntt
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.facebook.com/englishit4">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://zalo.me/0865089202">
+<img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/englishcntt">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@englishit4">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ngocenglish&style=for-the-badge"/>
+
+</div>
